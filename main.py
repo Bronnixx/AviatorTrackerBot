@@ -1,5 +1,5 @@
-# 15.01.2023
-# Author: @mertcantoglu
+# 15.01.2024
+# Author: @erickndeto
 # https://www.maxbet.rs/ibet-web-client/#/home/game/spribe/aviator tracker for @Highlinkseo
 
 
