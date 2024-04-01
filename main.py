@@ -1,6 +1,6 @@
 # 15.01.2024
 # Author: @erickndeto
-# https://www.maxbet.rs/ibet-web-client/#/home/game/spribe/aviator tracker for @Highlinkseo
+# https://www.mozzartbet.rs/ibet-web-client/#/home/game/spribe/aviator tracker for @Highlinkseo
 
 
 from selenium import webdriver
@@ -10,12 +10,12 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from telegram_sender import Sender
 
-TOKEN = "YOUR-TOKEN-HERE" #Your token that you got the BotFather
-USERNAME = "YOUR-EMAIL" #YOUR-EMAIL
-PASSWORD = "YOUR-PASSWORD" #YOUR-PASSWORD
+TOKEN = "6590209063:AAFPaBblPvxEiem9f7UAItWY2tyBuoXBOLw" #Your token that you got the BotFather
+USERNAME = "erickndeto202@gmail.com" #YOUR-EMAIL
+PASSWORD = "Makueniadidas2023" #YOUR-PASSWORD
 numberOfConsec = 3 #Number of consecutive
 ratio = 2.0 #Trigger ratio. Ex: (Bets below 2.00x.)
-url = "https://www.maxbet.rs/ibet-web-client/#/home/game/spribe/aviator"
+url = "https://www.mozzartbet.rs/ibet-web-client/#/home/game/spribe/aviator"
 
 def login():
     while(not checkLogin()):
